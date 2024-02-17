@@ -1,4 +1,4 @@
-%Composition No. I with Red and Blue
+%Composition with Read, Blue, and Yellow
 
 figure;
 rectangle('Position',[0,0,15,50],'EdgeColor','black','LineWidth',4);
